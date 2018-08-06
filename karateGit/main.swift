@@ -8,7 +8,7 @@
 
 import Foundation
 
-var place = "croatia"
-var name = "Sasha"
+var place = "Moskva"
+var name = "Samvel"
 
 print("\(name) in \(place)")
