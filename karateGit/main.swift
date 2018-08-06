@@ -8,5 +8,7 @@
 
 import Foundation
 
-print("Hello, World!")
+var place = "croatia"
+var name = "Sasha"
 
+print("\(name) in \(place)")
